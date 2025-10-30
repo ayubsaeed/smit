@@ -37,7 +37,7 @@ document.write("Data type of my declared variable is " + typeof(birthYear) + "<b
 // Doe ordered 5 T-shirt(s) on XYZ Clothing store”.
 // ------------------------------------------------------------------------------------------- -->
 
-var visitorName = "Mubashir M.Ibrahim" ;
+var visitorName = "Ayub Shah" ;
 var productTitle = "T-shirt(s)" ;
 var productQuantity = 5 ;
 document.write(visitorName + " ordered " + productQuantity + " " + productTitle + " on XYZ Clothing store.") ;
